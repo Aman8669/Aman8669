@@ -88,8 +88,6 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, so
 
 ## 📈 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight)
