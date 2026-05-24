@@ -88,10 +88,6 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, so
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aman8669&theme=tokyonight)
 
 ---
