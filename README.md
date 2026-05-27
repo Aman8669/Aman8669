@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Aman Naikwade 👋
 
 ### Full-Stack Developer | MERN Stack | Java | SQL
