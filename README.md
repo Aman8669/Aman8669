@@ -1,121 +1,61 @@
 # Hi there, I'm Aman Naikwade 👋
 
-### 🚀 Aspiring Data Analyst | SQL Enthusiast | Python Learner | Problem Solver
+### 🚀 Full-Stack Developer | MERN Stack | Java & SQL Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about learning new technologies, solving real-world problems with data, and continuously improving my technical skills. I enjoy building projects that help me grow as a developer and future data professional.
+Welcome to my GitHub profile! I am a B.Tech student in Electronics and Computer Engineering with a passion for building robust web applications, optimizing databases, and solving complex problems. I bridge frontend creativity with backend logic to create scalable digital solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Student of B.Tech in Electronics and Computer Engineering
-
-📊 Currently exploring the world of Data Analytics and Data Science
-
-💡 Interested in SQL, Python, Data Analysis, Statistics, and Software Development
-
-🌱 Continuously learning and building projects to strengthen my technical foundation
-
-🚀 Open to collaborating on beginner-friendly Data Analytics, SQL, Python, and Web Development projects
-
----
-
-## 🔭 Currently Working On
-
-- Building SQL practice projects using PostgreSQL
-- Strengthening Python programming fundamentals
-- Learning Data Analysis concepts and workflows
-- Creating projects to showcase my learning journey on GitHub
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL Queries
-- PostgreSQL Database Management
-- Python for Data Analysis
-- Statistics for Data Science
-- Pandas & NumPy
-- Data Visualization
-- Power BI
+- 🎓 **Education:** B.Tech Student in Electronics and Computer Engineering at Sharad Institute of Technology College of Engineering, Kolhapur (CGPA: 7.56).
+- 💼 **Experience:** Recently worked as a **Full Stack Web Development Trainee** at Paarsh Infotech Pvt. Ltd., Pune, building responsive UIs and integrating APIs.
+- 💡 **Core Focus:** Object-Oriented Programming (OOP), DBMS, Data Structures & Algorithms, and full-stack web architectures.
+- 🌱 **Learning & Growth:** Solved **100+ coding problems** in Java and Python, and continuously strengthening my full-stack and database design skills.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Analytics Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🌐 Web & Software Development
+- **Languages:** Java, JavaScript, Python, SQL
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap, EJS
+- **Backend:** Node.js, Express.js, REST APIs, CRUD Operations
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, MongoDB Atlas, Cloudinary
 
 ---
 
-## 🎯 Goals
+## 🚀 Featured Projects
 
-- Become a skilled Data Analyst
-- Build impactful data-driven projects
-- Master SQL and Python for analytics
-- Contribute to open-source projects
-- Collaborate with developers and data enthusiasts
-- Land opportunities in Data Analytics and Software Development
+### 🌌 [Wonderlust – Travel Listing Website](https://github.com/Aman8669/WondurLust)
+*Node.js | Express.js | MongoDB | EJS | Bootstrap*
+- Developed a full-stack travel listing web application featuring complete CRUD functionality.
+- Implemented user authentication, signup, and session management.
+- Integrated **Cloudinary** for seamless image uploads and **MongoDB Atlas** for cloud database management.
+
+### 🗄️ [SQL Retail Inventory Analysis](https://github.com/Aman8669/BookStore-Analytics-SQL-Project)
+*PostgreSQL | SQL*
+- Practiced **50+ advanced SQL queries** utilizing Joins, Subqueries, Window Functions, and Aggregations.
+- Analyzed inventory and sales datasets to extract meaningful stock and retail trend insights.
+
+### ⚡ [Weather Web App](https://github.com/Aman8669/Wether-Web-App)
+*React.js | JavaScript | REST API*
+- Built a responsive user interface that fetches and displays real-time weather data from an external API.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aman8669&theme=tokyonight)
-
----
-
-## 📂 Featured Areas
-
-📊 Data Analytics Projects
-
-🗄️ SQL & PostgreSQL Practice
-
-🐍 Python Programming
-
-🌐 Web Development Projects
-
-📈 Statistics & Data Science Learning
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Naikwade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-naikwade-04331b308/)
-
-[![Email](https://img.shields.io/badge/Email-amannaikwade09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amannaikwade09@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/aman-naikwade-04331b308](https://www.linkedin.com/in/aman-naikwade-04331b308)
+- 📧 **Email:** amannaikwade09@gmail.com
 
 ---
-
-### 💬 Quote I Live By
-
-> "Consistency beats intensity. Small improvements every day lead to remarkable results."
-
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+*"Consistency beats intensity. Small improvements every day lead to remarkable results."*
