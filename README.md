@@ -6,8 +6,6 @@ Motivated Full-Stack Developer with hands-on experience building web application
 
 ---
 
-```markdown
----
 
 ## 📊 GitHub Stats
 
@@ -22,7 +20,7 @@ Motivated Full-Stack Developer with hands-on experience building web application
 </p>
 
 ---
-```
+
 
 ## 🚀 About Me
 
