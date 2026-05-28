@@ -6,6 +6,24 @@ Motivated Full-Stack Developer with hands-on experience building web application
 
 ---
 
+```markdown
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman8669&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+```
+
 ## 🚀 About Me
 
 - 🎓 B.Tech Student in Electronics and Computer Engineering
