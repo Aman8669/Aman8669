@@ -1,50 +1,43 @@
-# Hi, I'm Aman Naikwade 👋
+# Hi there, I'm Aman Naikwade 👋
 
-### Full-Stack Developer | MERN Stack | Java | SQL
+### Java Full Stack Developer | Spring Boot | React | PostgreSQL | MERN Stack
 
-Motivated Full-Stack Developer with hands-on experience building web applications using the MERN stack, Java, and SQL. Skilled in frontend development, backend APIs, database management, and CRUD operations through academic projects and practical learning.
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight" height="170" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman8669&theme=tokyonight" height="170" />
-</p>
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight" height="170"/>
-</p>
+Motivated Software Developer with hands-on experience building full-stack web applications using Java, Spring Boot, React, Node.js, and SQL databases. Passionate about designing scalable backend systems, developing responsive user interfaces, and solving real-world problems through software development.
 
 ---
-
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student in Electronics and Computer Engineering
-- 💻 Focused on Full-Stack Web Development and Software Engineering
-- 🌱 Currently learning SQL, Python, and data-related technologies
-- 🧠 Solved 100+ coding problems using Java and Python
-- ⚡ Interested in building scalable and user-friendly web applications
+* 🎓 B.Tech in Electronics & Computer Engineering
+* 💻 Aspiring Java Full Stack Developer
+* 🌱 Currently learning Spring Boot, Hibernate, JPA, Docker, and System Design
+* 🧠 Solved 100+ DSA problems using Java
+* 🔍 Strong understanding of OOP, DBMS, SQL, REST APIs, and Backend Development
+* 🚀 Looking for Software Developer / Java Developer / Full Stack Developer opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### Java Full Stack
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC500?style=for-the-badge)
 
 ### Backend
@@ -52,77 +45,128 @@ Motivated Full-Stack Developer with hands-on experience building web application
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
-
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
 ---
 
 ## 📌 Featured Projects
 
-### 🌍 Wonderlust – Travel Listing Website
-Full-stack travel listing web application built using Node.js, Express.js, MongoDB, EJS, and Bootstrap.
+### 🎓 Student Management System
 
-#### Features:
-- CRUD functionality
-- User authentication
-- Session handling
-- Cloudinary image uploads
-- Responsive UI design
+Full Stack CRUD application built using Java Spring Boot, React, PostgreSQL, Hibernate, and JPA.
 
-🔗 Live Demo:  
-https://wondurlust-dh5y.onrender.com
+#### Features
 
----
+* Student CRUD Operations
+* Input Validation
+* Exception Handling
+* RESTful APIs
+* React Frontend Integration
+* PostgreSQL Database
 
-### 📊 SQL Retail Inventory Analysis
-SQL-based project focused on inventory and sales data analysis using PostgreSQL.
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL, Hibernate, JPA
 
-#### Highlights:
-- Practiced 50+ SQL queries
-- Worked with Joins, Subqueries, Aggregations, and Window Functions
-- Improved relational database and SQL problem-solving skills
-
-🔗 GitHub Repository:  
-https://github.com/Aman8669
+🔗 Repository: https://github.com/Aman8669/Student-CRUD-SpringBoot-React
 
 ---
 
-## 📚 Core Concepts
+### 🌐 DevConnect – Developer Networking Platform
 
-- Object-Oriented Programming (OOP)
-- DBMS
-- Data Structures & Algorithms
-- REST APIs
-- CRUD Operations
-- Problem Solving
+Graph-based developer networking application built using Spring Boot, React, Neo4j, and CognoDB.
+
+#### Features
+
+* Developer Profiles
+* Skills & Project Relationships
+* Technology Mapping
+* Graph Database Queries
+* REST APIs
+
+**Tech Stack:** Java, Spring Boot, React, Neo4j, CognoDB
+
+🔗 Repository: https://github.com/Aman8669/DevConnect_Task
 
 ---
 
-## 📈 What I'm Currently Working On
+### 🌍 WonderLust – Travel Listing Platform
 
-- Improving MERN Stack development skills
-- Learning advanced SQL and Python
-- Building more full-stack and data-related projects
-- Practicing DSA and backend development concepts
+Full Stack web application inspired by Airbnb.
+
+#### Features
+
+* User Authentication
+* Session Management
+* Property Listings
+* Reviews & Ratings
+* Cloudinary Image Uploads
+* Search & Filters
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap
+
+🔗 Live Demo: https://wondurlust-dh5y.onrender.com
+
+---
+
+## 💼 Internship Experience
+
+### Full Stack Web Development Trainee
+
+**Paarsh Infotech Pvt. Ltd., Pune**
+
+* Developed responsive web pages using HTML, CSS, JavaScript, and Bootstrap.
+* Built and maintained service pages for company websites.
+* Integrated frontend with backend APIs.
+* Worked with Git and GitHub for version control.
+* Collaborated on debugging and UI enhancements.
+
+---
+
+## 📚 Core Competencies
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* DBMS
+* Operating Systems
+* SQL & Database Design
+* REST API Development
+* MVC Architecture
+* Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman8669&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Aman8669
-- LinkedIn: https://www.linkedin.com/in/aman-naikwade-04331b308/
-- Email: amannaikwade09@gmail.com
+📧 Email: [amannaikwade09@gmail.com](mailto:amannaikwade09@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/aman-naikwade/
+
+🐙 GitHub: https://github.com/Aman8669
 
 ---
 
-⭐ Always learning, building, and improving as a developer.
-```
+### ⭐ "Always Learning, Building, and Improving."
