@@ -1,121 +1,167 @@
-# Hi there, I'm Aman Naikwade 👋
+# 👋 Hi, I'm Aman Naikwade
 
-### Java Full Stack Developer | Spring Boot | React | PostgreSQL | MERN Stack
+### Java Backend Developer | Java Full Stack Developer | Spring Boot | SQL | React
 
-Motivated Software Developer with hands-on experience building full-stack web applications using Java, Spring Boot, React, Node.js, and SQL databases. Passionate about designing scalable backend systems, developing responsive user interfaces, and solving real-world problems through software development.
+<p align="left">
+  <a href="https://aman-developer-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:amannaikwade09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aman-naikwade/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+I'm a 2026 Electronics & Computer Engineering graduate focused on **Java Backend and Full Stack Development**.
+
+I enjoy building secure backend systems, designing REST APIs, working with relational databases, and developing practical applications that solve real-world problems.
+
+Currently strengthening my skills in Spring Boot, Spring Security, authentication, database management, and backend development.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Electronics & Computer Engineering
-* 💻 Aspiring Java Full Stack Developer
-* 🌱 Currently learning Spring Boot, Hibernate, JPA, Docker, and System Design
-* 🧠 Solved 100+ DSA problems using Java
-* 🔍 Strong understanding of OOP, DBMS, SQL, REST APIs, and Backend Development
-* 🚀 Looking for Software Developer / Java Developer / Full Stack Developer opportunities
+- 🎓 B.Tech in Electronics & Computer Engineering — 2026 Graduate
+- 💻 Aspiring Java Backend / Full Stack Developer
+- ☕ Focused on Java, Spring Boot and Spring Security
+- 🔐 Learning secure authentication, authorization and JWT
+- 🧠 Practicing Data Structures & Algorithms using Java
+- 🛠️ Hands-on experience building REST APIs and full-stack applications
+- 💼 7-month internship experience at Paarsh Infotech Pvt. Ltd.
+- 🎯 Looking for entry-level Java Developer / Backend Developer / Software Developer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+### ☕ Programming Languages
 
-### Java Full Stack
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-8BC500?style=for-the-badge)
+### ⚙️ Java Backend Development
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
+### 🗄️ Databases
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
----
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-## 📌 Featured Projects
+### 🎨 Frontend Development
 
-### 🎓 Student Management System
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-Full Stack CRUD application built using Java Spring Boot, React, PostgreSQL, Hibernate, and JPA.
+### 🔧 Tools & Technologies
 
-#### Features
-
-* Student CRUD Operations
-* Input Validation
-* Exception Handling
-* RESTful APIs
-* React Frontend Integration
-* PostgreSQL Database
-
-**Tech Stack:** Java, Spring Boot, React, PostgreSQL, Hibernate, JPA
-
-🔗 Repository: https://github.com/Aman8669/Student-CRUD-SpringBoot-React
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-### 🌐 DevConnect – Developer Networking Platform
+## 💻 Featured Projects
 
-Graph-based developer networking application built using Spring Boot, React, Neo4j, and CognoDB.
+### 01. CognitiveNotes — Secure Note Management Application
 
-#### Features
+A secure note-taking application designed to help users manage personal notes and work with their information more efficiently.
 
-* Developer Profiles
-* Skills & Project Relationships
-* Technology Mapping
-* Graph Database Queries
-* REST APIs
+**Key Features**
+- User registration and authentication
+- JWT-based authentication
+- Secure user-specific note management
+- REST API development
+- PostgreSQL database integration
+- AI-powered note analysis planned
 
-**Tech Stack:** Java, Spring Boot, React, Neo4j, CognoDB
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, React
 
-🔗 Repository: https://github.com/Aman8669/DevConnect_Task
+🔗 [Backend Repository](https://github.com/Aman8669/CognativeNotes)  
+🔗 [Frontend Repository](https://github.com/Aman8669/CognativeNotes-Frontend)  
+🌐 [Live Application](https://cognative-notes-frontend-five.vercel.app/)
 
 ---
 
-### 🌍 WonderLust – Travel Listing Platform
+### 02. Student Management System
 
-Full Stack web application inspired by Airbnb.
+A full-stack CRUD application developed to manage student information through REST APIs and a responsive React frontend.
 
-#### Features
+**Key Features**
+- Create, Read, Update and Delete student records
+- RESTful API development
+- Input validation
+- Exception handling
+- React frontend integration
+- PostgreSQL database management
 
-* User Authentication
-* Session Management
-* Property Listings
-* Reviews & Ratings
-* Cloudinary Image Uploads
-* Search & Filters
+**Tech Stack:** Java, Spring Boot, Hibernate, JPA, PostgreSQL, React
+
+🔗 [GitHub Repository](https://github.com/Aman8669/Student-CRUD-SpringBoot-React)
+
+---
+
+### 03. Spring Security Authentication
+
+A practical backend project focused on understanding and implementing authentication using Spring Security.
+
+**Key Features**
+- User registration and login APIs
+- BCrypt password encoding
+- Custom UserDetailsService
+- AuthenticationManager
+- Database-backed authentication
+- CSRF protection
+- User and Role relationship
+
+**Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, Spring Data JPA
+
+🔗 [GitHub Repository](https://github.com/Aman8669/spring-security)
+
+---
+
+### 04. WonderLust — Travel Listing Platform
+
+A full-stack travel listing application inspired by Airbnb, allowing users to explore and manage property listings.
+
+**Key Features**
+- User authentication and session management
+- Property listings
+- Reviews and ratings
+- Cloudinary image uploads
+- Search and filtering
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap
 
-🔗 Live Demo: https://wondurlust-dh5y.onrender.com
+🔗 [Live Demo](https://wondurlust-dh5y.onrender.com)
 
 ---
 
@@ -123,50 +169,82 @@ Full Stack web application inspired by Airbnb.
 
 ### Full Stack Web Development Trainee
 
-**Paarsh Infotech Pvt. Ltd., Pune**
+**Paarsh Infotech Pvt. Ltd. | Pune**
 
-* Developed responsive web pages using HTML, CSS, JavaScript, and Bootstrap.
-* Built and maintained service pages for company websites.
-* Integrated frontend with backend APIs.
-* Worked with Git and GitHub for version control.
-* Collaborated on debugging and UI enhancements.
-
----
-
-## 📚 Core Competencies
-
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* DBMS
-* Operating Systems
-* SQL & Database Design
-* REST API Development
-* MVC Architecture
-* Problem Solving
+- Developed responsive web pages using HTML, CSS, JavaScript and Bootstrap.
+- Built and maintained company service pages and service-detail pages.
+- Integrated frontend components with backend APIs.
+- Worked with Git and GitHub for version control.
+- Assisted with debugging, testing and UI improvements.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Computer Science Skills
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- SQL and Database Design
+- Operating System Fundamentals
+- REST API Development
+- MVC Architecture
+- Authentication and Authorization
+- Problem Solving and Debugging
+
+---
+
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman8669&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman8669&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman8669&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8669&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Learning Goals
 
-📧 Email: [amannaikwade09@gmail.com](mailto:amannaikwade09@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/aman-naikwade/
-
-🐙 GitHub: https://github.com/Aman8669
+- Deepening knowledge of Spring Security
+- Implementing JWT authentication and authorization
+- Improving Java problem-solving and DSA skills
+- Building secure and scalable REST APIs
+- Learning Docker and application deployment
+- Improving backend architecture and system design fundamentals
 
 ---
 
-### ⭐ "Always Learning, Building, and Improving."
+## 🤝 Let's Connect
+
+I'm actively looking for opportunities where I can contribute as a **Java Developer, Backend Developer or Software Engineer**, learn from experienced developers, and grow as an engineer.
+
+<p align="left">
+  <a href="https://aman-developer-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aman-naikwade/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amannaikwade09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+📍 Pune, India
+
+📧 **Email:** amannaikwade09@gmail.com
+
+🐙 **GitHub:** [Aman8669](https://github.com/Aman8669)
+
+---
+
+<p align="center">
+  <b>⭐ Always Learning. Building with Purpose. Improving Every Day.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
+</p>
